@@ -5,7 +5,6 @@
 <ul> 
   <li>ReactJs</li>
   <li>axios</li>
-  <li>Firebase</li>
   <li>movie-trailer</>
   <li>react-youtube</li>
   <li> <a href="https://api.themoviedb.org/">Themoviedb API</a></li>
