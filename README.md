@@ -1,4 +1,4 @@
-👉 [See Live Demo](https://netflix-clone-b1517.web.app/)
+👉 [See Live Demo](https://Akashkhandelwal191.github.io/NetflixClone)
 
 ## Stack Used :-
 
